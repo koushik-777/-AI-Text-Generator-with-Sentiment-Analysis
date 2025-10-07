@@ -1,4 +1,4 @@
-# 🤖 AI Text Generator with Sentiment Analysis
+#  AI Text Generator with Sentiment Analysis
 
 ![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.37+-FF4B4B.svg)
@@ -8,11 +8,11 @@ A modern Streamlit application that blends RoBERTa-based sentiment analysis with
 
 ## Features
 
-- 🔍 **Sentiment analysis** powered by `cardiffnlp/twitter-roberta-base-sentiment-latest`
-- ✍️ **Instruction-based text generation** powered locally by `google/flan-t5-large`
-- 📏 **Length presets** (Short, Medium, Long) with automatic token controls
-- 🎨 **Modern UI** featuring gradient styling, inline badges, clipboard + download actions
-- � **Offline-friendly** workflow that never sends prompts to external services
+- **Sentiment analysis** powered by `cardiffnlp/twitter-roberta-base-sentiment-latest`
+- **Instruction-based text generation** powered locally by `google/flan-t5-large`
+- **Length presets** (Short, Medium, Long) with automatic token controls
+- **Modern UI** featuring gradient styling, inline badges, clipboard + download actions
+- **Offline-friendly** workflow that never sends prompts to external services
 
 ## Project Structure
 
@@ -85,3 +85,4 @@ A modern Streamlit application that blends RoBERTa-based sentiment analysis with
 - Add multilingual sentiment detection and generation pathways
 
 Enjoy crafting sentiment-aligned narratives that resonate with any audience! 🚀
+
